@@ -1,10 +1,11 @@
-# The qojuq keyboard layout
+# The juqhi keyboard layout
 
-This layout is originally based on the ADNW layout and it's PUQ modification.
+This layout is originally based on the ADNW layout and it's PUQ variant and then modifying
+it to a US-English layout with some additions for better programming support.
+
+References:
 - http://adnw.de/
 - http://adnw.de/index.php?n=Main.OptimierungF%c3%bcrDieGeradeTastaturMitDaumen-Shift
-
-Modifications were done to make it a US-English based layout 
 
 ## Normal Staggered (HHKB)
 
